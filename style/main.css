@@ -19,7 +19,7 @@ body {
 
 header .container {
     display: flex;
-    width: 100%;
+    width: 98%;
     margin-left: 0px;
     position: fixed;
     z-index: 999;
@@ -37,7 +37,7 @@ header .logo {
 header nav a {
     text-decoration: none;
     color: #AAA;
-    margin-right: 60px;
+    margin-right: 40px;
 }
 
 header nav a:hover {

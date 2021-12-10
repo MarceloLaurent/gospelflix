@@ -10,6 +10,26 @@
     }
 }
 
+@media screen and (max-width: 750px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filme-principal {
+        font-size: 12px;
+    }
+    
+    .filme-principal .titulo {
+    font-size: 30px;
+    }
+
+    .botao {
+        padding: 12px 24px;
+        font-size: 9px;
+    }
+}
+
 @media screen and (min-width: 1000px) {
     .descricao {
         width: 60%;
