@@ -1,4 +1,9 @@
 @media screen and (max-width: 600px) {
+
+    body {
+        margin-left: 20px;
+    }
+
     header .container {
         display: flex;
         flex-direction: column;
